@@ -28,6 +28,7 @@ Other things to do:
 The game was created by Márton Bakk
 
 Magyar leírás:
+
 A Moon Lander egy egyszerű, de izgalmas játék, amelynek lényege, hogy a holdkompot lerakjuk a kijelölt helyre úgy, hogy annak baja esését megakadályozzuk. A játékosnak figyelnie kell arra, hogy ne legyen túl nagy a horizontális és vertikális sebessége, valamint ne fogyjon ki az üzemanyag.
 
 Kezdő lépések
