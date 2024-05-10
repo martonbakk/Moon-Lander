@@ -1,6 +1,8 @@
 **Moon Lander**
 ![](https://github.com/martonbakk/Moon-Lander/blob/main/start2.png)
 
+[Hungarian Documention here](https://github.com/martonbakk/Moon-Lander/blob/main/Dokumentacio.pdf)
+
 Moon Lander is a simple but exciting game where the object is to land the lunar module in the designated place so that it doesn't fall. The player has to make sure that the horizontal and vertical speed is not too high and that the fuel does not run out.
 
 **Starting steps**
